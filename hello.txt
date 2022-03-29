@@ -3,5 +3,6 @@ hello git!
 hello git!
 hello git!
 hello git! master text
+hello git! 
 version 3
-tests
+tests hot-fix test
