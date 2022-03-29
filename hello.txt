@@ -4,3 +4,4 @@ hello git!
 hello git!
 hello git!
 version 3
+tests
