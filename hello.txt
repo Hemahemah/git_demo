@@ -7,3 +7,4 @@ hello git!
 version 3
 tests hot-fix test
 23242442
+git ssh
